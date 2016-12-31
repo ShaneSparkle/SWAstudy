@@ -1,0 +1,75 @@
+mvc
+
+
+
+
+Face: javascript html jsp
+
+Logic: spring
+
+Database: hybernate-(glassfish/tomcat)
+-----------------------------------------------
+Features: Logging, Roles
+
+
+
+
+Site/Forum
+
+Check sidemenu as a definition in general xml;
+
+Episode 11 Spring MVC
+
+	*)Controller - Service - Repository - Database
+	*)JSTL taglib
+12 Apache Tiles dynamic 
+
+	*)Setting up ACTIVE web pages through general.xml
+
+13: Path Variable
+
+	string to jsp auto generated page
+
+14: JSP Include Directive : 
+
+	taglibs into file. JSP include
+
+15: Hibernate Lazy Initialization
+	
+	Pulling connected entities	
+
+	1st way : Filter
+
+16: Hibernate Transaction : javavids
+
+	2nd way 
+
+17: Spring Data JPA Paging and sorting
+
+	Limting the number of pulled items from database.
+	Size, Sorting
+ 
+18: JSP Form binding using Model Attribute
+
+	Registration form. Binding object to form. Sending Data from face to business layer
+
+19: Spring Security basics
+
+	Reference to how spring security works
+
+20: Spring Security login page 
+
+	chaining login form and jspring security together
+
+21: Spring Security Logout : 
+	
+	simple /logout call
+
+22: Spring Security Expressions
+
+	a lttle tweak with role chek in spring security
+
+23: Spring Security and JSP 
+
+	Hide pages from user if he doesn't have appropriate rights. 
+	Add jsp taglib
